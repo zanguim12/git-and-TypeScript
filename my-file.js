@@ -1,5 +1,4 @@
 // Ne modifiez que le typage TypeScript, ne touchez pas au code JavaScript !
-//exercice
 function sayHello(target) {
     return "Hello ".concat(target.firstName, ", you have ").concat(target.money, " on your bank account.");
 }
