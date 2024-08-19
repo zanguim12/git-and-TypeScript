@@ -8,7 +8,7 @@ var message = sayHello({ firstName: 'World', money: 123 });
 // soit content en modifiant UNIQUEMENT le code du dessus !
 var babyDragon = {
     name: 'Typeon',
-    life: 50,
+    life: 51,
     attack: 10,
     defense: 20,
 };
